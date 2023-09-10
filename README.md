@@ -23,7 +23,7 @@ pip install pandas numpy seaborn scikit-learn
 
 ## Dataset
 
-The dataset used for this project is provided as `titanic.csv`. It contains various features about passengers, including their age, gender, class, and more. The target variable is "Survived," where 1 indicates that the passenger survived, and 0 indicates otherwise.
+The dataset used for this project is provided as `train.csv`. It contains various features about passengers, including their age, gender, class, and more. The target variable is "Survived," where 1 indicates that the passenger survived, and 0 indicates otherwise.
 
 ## Jupyter Notebook
 
